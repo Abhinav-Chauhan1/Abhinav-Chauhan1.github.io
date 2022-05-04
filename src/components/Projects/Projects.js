@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="The Foodolicious"
+              description="An Food Ordering and Delivering Website for Client with an huge amount of products." 
               link="https://github.com/soumyajit4419/Chatify"
             />
           </Col>
@@ -35,8 +35,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Pani-Poori-Wala"
+              description="An Modern Website For Client For Serving Frenchise."
               link="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
