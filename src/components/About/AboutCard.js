@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Abhinav Chauhan </span>
             from <span className="purple"> Uttar Pardesh, India.</span>
-            <br />I am a junior pursuing Diploma in Computer Science from Amity University.
+            <br />Currently pursuing Btech in Computer Science from Amity University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

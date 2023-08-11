@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="The Foodolicious"
               description="An Food Ordering and Delivering Website for Client with an huge amount of products." 
-              link="https://github.com/soumyajit4419/Chatify"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Pani-Poori-Wala"
               description="An Modern Website For Client For Serving Frenchise."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Zombie Spacer"
               description="An FPS Game Developed in Unity."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="HighFi"
               description="An Cloud Messaging Application Designed in React.js"
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
 
@@ -77,7 +77,7 @@ function Projects() {
               isBlog={false}
               title="Face Recognition"
               description="Face Detection using Python and OpenCV."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
         </Row>
