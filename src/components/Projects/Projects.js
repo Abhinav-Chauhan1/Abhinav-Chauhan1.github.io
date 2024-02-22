@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="The Foodolicious"
-              description="An Food Ordering and Delivering Website for Client with an huge amount of products." 
-              link="https://github.com/Abhinav-Chauhan1"
+              title="AH Clothing"
+              description="An Clothing Website for an Client with an huge amount of products." 
+              link="https://ahclothing.in/"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Pani-Poori-Wala"
               description="An Modern Website For Client For Serving Frenchise."
-              link="https://github.com/Abhinav-Chauhan1"
+              link="http://panipooriwala.com/"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Zombie Spacer"
               description="An FPS Game Developed in Unity."
-              link="https://github.com/Abhinav-Chauhan1"
+              link="https://drive.google.com/drive/folders/104DhwTj2wOHQ6dyd_8cDeaWUaP0b1y-j?usp=sharing"
             />
           </Col>
 
@@ -65,9 +65,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="HighFi"
-              description="An Cloud Messaging Application Designed in React.js"
-              link="https://github.com/Abhinav-Chauhan1"
+              title="Howard Convent School"
+              description="An School Website Designed with HTML5, CSS3, BootStrap5"
+              link="https://github.com/Abhinav-Chauhan1/Howard-Convent-School"
             />
           </Col>
 
