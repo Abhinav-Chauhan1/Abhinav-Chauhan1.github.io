@@ -21,19 +21,20 @@ function Home2() {
               I fell in love with Game Development and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in 
               <i>
-                <b className="purple"> C#, Html, CSS and Python. </b>
+                <b className="purple"> C#, Node JS </b>
+              </i>
+              as well as I am a Full Time 
+              <i>
+                <b className="purple"> MERN Developer</b>
               </i>
               <br />
               <br />
               My field of Interest's are building new
               <i>
-                <b className="purple"> Games</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Web3 Development and Machine learning.
-                </b>
+                <b className="purple"> Apps </b>using
+                <b className="purple"> Mern Web Development</b>
               </i>
               <br />
               <br />

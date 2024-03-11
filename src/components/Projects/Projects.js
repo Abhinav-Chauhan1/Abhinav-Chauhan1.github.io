@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
+import highfiii from "../../Assets/Projects/highfiii.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
@@ -23,21 +23,21 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={highfiii}
               isBlog={false}
-              title="AH Clothing"
-              description="An Clothing Website for an Client with an huge amount of products." 
-              link="https://ahclothing.in/"
+              title="HighFiii"
+              description="A Blog App with authentication"
+              link="https://github.com/Abhinav-Chauhan1"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={chatify}
               isBlog={false}
-              title="Pani-Poori-Wala"
-              description="An Modern Website For Client For Serving Frenchise."
-              link="http://panipooriwala.com/"
+              title="AH Clothing"
+              description="An Clothing Website for an Client with an huge amount of products." 
+              link="https://ahclothing.in/"
             />
           </Col>
 
@@ -67,19 +67,20 @@ function Projects() {
               isBlog={false}
               title="Howard Convent School"
               description="An School Website Designed with HTML5, CSS3, BootStrap5"
-              link="https://github.com/Abhinav-Chauhan1/Howard-Convent-School"
+              link="https://howardconventschool.netlify.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={bitsOfCode}
               isBlog={false}
-              title="Face Recognition"
-              description="Face Detection using Python and OpenCV."
-              link="https://github.com/Abhinav-Chauhan1"
+              title="Pani-Poori-Wala"
+              description="An Modern Website For Client For Serving Frenchise."
+              link="http://panipooriwala.com/"
             />
           </Col>
+
         </Row>
       </Container>
     </Container>
